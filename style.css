@@ -1,0 +1,18 @@
+#navigation {
+  background-color: #ff8c00;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(255, 255, 255);
+}
+
+#projects {
+  background-color: rgb(255, 255, 255);
+}
+
+.pagination {
+}
+
+section {
+  padding-top: 5rem;
+}
